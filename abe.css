@@ -1,0 +1,76 @@
+.side{
+    float: left;
+    width: 20%;
+    height: 100%;
+    position:fixed;
+    background-color:#EAD9FF;
+}
+h1{
+    width:100%;
+    text-align: center;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+li{
+    padding-left: 5%;
+
+    padding: 5% 5%;
+}
+.pink{
+    color: #FFCCCC;
+}
+.green{
+    color: #99FF33;
+}
+.skyblue{
+    color: #33FFFF;
+}
+.blue{
+    color: #3399FF;
+}
+.darkblue{
+    color: #003399;
+}
+.purple{
+    color: 	#9900CC	;
+}
+.red{
+    color: #CC00CC;
+}
+.main{
+    float: right;
+    width: 80%;
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.saishin{
+    text-align: center;
+}
+.abeside{
+    width:40% ;
+    height: 100%;
+}
+.abemain {
+    width: 60%;
+}
+
+span{
+    color: red;
+}
+
+.text{
+    padding-left: 15%;
+    font-weight: 700;
+    margin-bottom: 5%;
+}
+.hiroshi{
+    padding-top: 3%;
+    padding-left: 5%;
+    padding-bottom: 10%;
+}
+.drama{
+    border-top: 1px solid ;
+    border-bottom: 1px solid ;
+}
